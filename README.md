@@ -18,7 +18,7 @@ Unity
 
 AtCoder:緑
 
-Prifile：https://atcoder.jp/users/matchamatcho
+プロフィール：https://atcoder.jp/users/matchamatcho
 
 https://github.com/matchamatcho/atcoder_mizuiro
 
