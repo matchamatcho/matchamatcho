@@ -1,4 +1,12 @@
-## Hi there 👋
+## こんにちは～ 👋
+
+言語
+C++:
+C#:
+Python:
+C:
+Ruby:
+
 --------
 UnrealEngine5
 
@@ -20,7 +28,7 @@ AtCoder:緑
 
 プロフィール：https://atcoder.jp/users/matchamatcho
 
-https://github.com/matchamatcho/atcoder_mizuiro
+水色になるための100問：https://github.com/matchamatcho/atcoder_mizuiro
 
 
 
