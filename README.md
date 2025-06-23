@@ -1,6 +1,6 @@
 ## こんにちは～ 👋
 
-個人ページ：https://matchamatcho.github.io/
+いずれ完成する個人ページ：https://matchamatcho.github.io/
 
 
 言語
