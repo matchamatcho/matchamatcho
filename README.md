@@ -4,11 +4,11 @@
 
 
 言語
-C++:
-C#:
-Python:
-C:
-Ruby:
+C++,
+C#,
+Python,
+C,
+Ruby,
 
 --------
 UnrealEngine5
@@ -16,6 +16,10 @@ UnrealEngine5
 製作中：https://github.com/matchamatcho/3Dtrapgame
 
 --------------------
+c++ゲーム
+
+制作中
+------------------
 
 Unity
 
