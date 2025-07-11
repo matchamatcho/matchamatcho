@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1>
-    こんにちは！ matchamatcho です 👋
+    こんにちは！ 菊田大地 です 👋
   </h1>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&width=435&lines=Game+Developer;Competitive+Programmer;C%2B%2B+%7C+Unreal+Engine+%7C+Unity" alt="Typing SVG" />
