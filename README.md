@@ -1,7 +1,4 @@
 <div id="header" align="center">
-  <a href="https://github.com/matchamatcho">
-    <img src="https://komarev.com/ghpvc/?username=matchamatcho&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" alt="profile views"/>
-  </a>
   <h1>
     こんにちは！ matchamatcho です 👋
   </h1>
