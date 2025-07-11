@@ -26,14 +26,29 @@
 
 ### :fire: 主なプロジェクト (Pinned Projects)
 <p align="center">
+  <a href="https://github.com/matchamatcho/ProjectAHR">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matchamatcho&repo=ProjectAHR&theme=tokyonight&border_radius=15" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/matchamatcho/magario">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matchamatcho&repo=magario&theme=tokyonight&border_radius=15" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="border">
+</p>
+
+### :construction_worker: 開発中のプロジェクト (Projects in Development)
+<p align="center">
   <a href="https://github.com/matchamatcho/3Dtrapgame">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matchamatcho&repo=3Dtrapgame&theme=tokyonight&border_radius=15" />
   </a>
+</p>
+<p align="center">
   <a href="https://github.com/matchamatcho/CppShooting">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matchamatcho&repo=CppShooting&theme=tokyonight&border_radius=15" />
-  </a>
-  <a href="https://github.com/matchamatcho/ProjectAHR">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matchamatcho&repo=ProjectAHR&theme=tokyonight&border_radius=15" />
   </a>
 </p>
 
