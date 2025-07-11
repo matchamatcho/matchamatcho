@@ -11,7 +11,7 @@
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-template/master/src/assets/border.svg" width="100%" alt="border">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="border">
 </p>
 
 ### :video_game: 開発スキル (Development Skills)
@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-template/master/src/assets/border.svg" width="100%" alt="border">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="border">
 </p>
 
 ### :fire: 主なプロジェクト (Pinned Projects)
@@ -41,7 +41,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-template/master/src/assets/border.svg" width="100%" alt="border">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="border">
 </p>
 
 ### :computer: 競技プログラミング (Competitive Programming)
@@ -60,7 +60,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-template/master/src/assets/border.svg" width="100%" alt="border">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="border">
 </p>
 
 ### :chart_with_upwards_trend: GitHub統計 (Stats)
