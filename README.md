@@ -74,7 +74,7 @@
     <img src="https://img.shields.io/badge/AtCoder-matchamatcho-blue?style=for-the-badge&logo=atcoder" alt="AtCoder Profile"/>
   </a>
   <a href="https://atcoder.jp/users/matchamatcho" target="_blank">
-    <img src="https://atcoder-badges.now.sh/api/rating/matchamatcho" alt="AtCoder Rating"/>
+    <img src="https://atrating.baoshuo.dev/rating?username=matchamatcho" alt="AtCoder Rating"/>
   </a>
 </p>
 <p align="center">
