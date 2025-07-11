@@ -11,6 +11,17 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="border">
 </p>
 
+### :globe_with_meridians: ポートフォリオ (Portfolio)
+<p align="center">
+  <a href="https://matchamatcho.github.io/my-portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/ポートフォリオ-4A90E2?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="border">
+</p>
+
 ### :video_game: 開発スキル (Development Skills)
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
@@ -18,6 +29,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine"/>
   <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black" alt="Unity"/>
+  <img src="https://img.shields.io/badge/DirectX-0078D7?style=for-the-badge&logo=directx&logoColor=white" alt="DirectX"/>
 </p>
 
 <p align="center">
@@ -62,7 +74,7 @@
     <img src="https://img.shields.io/badge/AtCoder-matchamatcho-blue?style=for-the-badge&logo=atcoder" alt="AtCoder Profile"/>
   </a>
   <a href="https://atcoder.jp/users/matchamatcho" target="_blank">
-    <img src="https://atcoder-badges.now.sh/api/users/matchamatcho" alt="AtCoder Rating"/>
+    <img src="https://atcoder-badges.now.sh/api/rating/matchamatcho" alt="AtCoder Rating"/>
   </a>
 </p>
 <p align="center">
