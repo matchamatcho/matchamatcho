@@ -23,13 +23,15 @@
 </p>
 
 ### :video_game: 開発スキル (Development Skills)
-<p align="center">
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,c,py,unity,unreal,nextjs,ts,docker,fastapi,git,ubuntu)](https://skillicons.dev)
+
+<!-- <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine"/>
   <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black" alt="Unity"/>
   <img src="https://img.shields.io/badge/DirectX-0078D7?style=for-the-badge&logo=directx&logoColor=white" alt="DirectX"/>
-</p>
+</p> -->
 
 
